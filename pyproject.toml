@@ -1,0 +1,6 @@
+[project]
+name = "authtrail"
+version = "0.1.0"
+description = "Local-only OpenSSH authentication log summarizer"
+requires-python = ">=3.9"
+license = {text = "MIT"}
